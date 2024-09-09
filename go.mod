@@ -1,4 +1,4 @@
-module github.com/shmokmt/t2md
+module github.com/shmokmt/u2md
 
 go 1.23.1
 
